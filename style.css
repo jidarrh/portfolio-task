@@ -1,0 +1,67 @@
+html {
+    background-image: url(background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.prof-box{
+    width: 450px;
+    height: 450px;
+    padding:40px;
+    color: rgb(211, 197, 197);
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center
+}
+.prof-pic {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-color: rgb(247, 242, 242);
+    border-width: 4px;
+    border-radius: 50%;
+}
+h1 {
+    font-weight: 70px;
+    letter-spacing: 6;
+    font-size: 40px;
+    color: tomato;
+}
+p {
+    font-weight: 100;
+    color: tomato;
+    letter-spacing: 1;
+}
+.line-break {
+    width: 240px;
+    margin: 0 auto;
+    border-top: 1px solid rgb(10, 9, 9);
+}
+body {
+    margin: 0px;
+    padding: 0px;
+}
+section{
+    width: 100%;
+    height: 100vh;
+}
+.about-content {
+    margin-left: 10px;
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+h2{
+    padding: 0;
+    margin: 5px;
+}
+p1{
+    color: black;
+    letter-spacing:  2px;
+    margin: 10px;
+    padding: 1opx;
+    position: center;
+}
